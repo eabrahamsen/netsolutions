@@ -11,4 +11,4 @@ Oracle Linux VM running Ansible 2.4.
 I am using a hybrid of virtualization within EVE-NG and physical equipment to
 help with upgrades and issues with virtualized systems.
 
-Eventually will be adding a Palo Alto Networks firewall, Juniper vSRX, and  
+Eventually will be adding a Palo Alto Networks firewall, Juniper vSRX, and Arista vEOS devices.
