@@ -1,0 +1,14 @@
+The current lab setup has:
+
+Oracle Linux VM running Ansible 2.4.
+
+* (2) Cisco CSR1000v routers
+* (1) Cisco ASAv
+* (1) Cisco WLCv
+* (1) Cisco Catalyst 3850
+* (1) Cisco Catalyst 4510 w/ dual sup8's
+
+I am using a hybrid of virtualization within EVE-NG and physical equipment to
+help with upgrades and issues with virtualized systems.
+
+Eventually will be adding a Palo Alto Networks firewall, Juniper vSRX, and  
